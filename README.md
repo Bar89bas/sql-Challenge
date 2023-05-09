@@ -16,4 +16,4 @@ Research Questions:
 8.	List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
 
 Conclusion:
-Based on the established foreign and primary keys with the six different entities and linking entities has helped to answer the given research questions. 
+Based on the established foreign and primary keys with the six different entities and linking those entities has answered the given research questions. 
